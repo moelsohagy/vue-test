@@ -121,6 +121,7 @@ export default {
 .posts {
   .post {
     position: relative;
+    // position: relative;
     margin: 10px 0;
     border: 1px solid #607d8b;
     border-radius: 5px;
